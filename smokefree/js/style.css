@@ -20,6 +20,11 @@ body {
 	font-style: normal;
 	margin: 0;
 	padding: 0;
+	/* background:  url(https://wallup.net/wp-content/uploads/2017/03/28/439479-fantasy_art-stars-sea-sunset-lights-trees.jpg) center center no-repeat fixed;
+		background-size: cover;
+		background-color: #000; */
+	background: linear-gradient(rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.6));
+	background: red;
 }
 
 input {
